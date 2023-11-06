@@ -1,7 +1,7 @@
 from faker import Faker
 # This program prints out a number of fake names and fake numeric grades to create a fake gradebook
 
-# This is an attempt at automating fake data for an assignment given to my students.
+# This is an attempt at automating fake data for an assignment
 
 # Probably would have been less effort to just make things up by hand. YOLO
 
